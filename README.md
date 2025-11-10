@@ -7,5 +7,5 @@ Tecnologia em Análise e Desenvolvimento de Sitemas, do IFRN.
 - [2 - Primo](https://github.com/louisechacon/funcoes-recursivas-python/tree/main/primo)
 - [4 - Algarismos](https://github.com/louisechacon/funcoes-recursivas-python/tree/main/algarismos)
 - [5 - Bits](https://github.com/louisechacon/funcoes-recursivas-python/tree/main/bits)
-- [7 - Lista de divisores](https://github.com/louisechacon/funcoes-recursivas-python/tree/main/listadivisores)
-- [8 - Índice do maior](https://github.com/louisechacon/funcoes-recursivas-python/tree/main/indicedomaior)
+- [7 - Lista de divisores](https://github.com/louisechacon/funcoes-recursivas-python/tree/main/lista-divisores)
+- [8 - Índice do maior](https://github.com/louisechacon/funcoes-recursivas-python/tree/main/indice-do-maior)

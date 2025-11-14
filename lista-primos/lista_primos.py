@@ -14,4 +14,16 @@ def primo_r(n, divisor):
 
 def primo(n):
     return primo_r(n,n)
-print(primo(int(input())))
+
+
+def primos(lista):
+    if len(lista) == 0:
+        return []
+    ultimo = lista[-1]
+    l2 = []
+    if primo(ultimo):
+        l2 = l2 + [ultimo]
+    return primos(lista[:-1]) + l2
+
+list = list(map(int, input().split()))
+print(primos(list))

@@ -9,4 +9,4 @@ def conta_divisores_r(n, divisor):
 
 def conta_divisores(n):
     return conta_divisores_r(n,n)
-print(conta_divisores(6))
+print(conta_divisores(int(input())))
